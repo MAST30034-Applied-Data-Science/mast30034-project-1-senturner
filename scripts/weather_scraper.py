@@ -1,5 +1,8 @@
 # Made with love by Karl
 # Contact me on Telegram: @karlpy
+# Available on github at https://github.com/Karlheinzniebuhr/the-weather-scraper
+
+# Used to download the Wunderground weather data used throughout the study
 
 import requests
 import csv
